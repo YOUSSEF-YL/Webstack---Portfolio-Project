@@ -1,11 +1,10 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+//import project1 from "../assets/projects/project-1.jpg";
+//import project2 from "../assets/projects/project-2.jpg";
+//import project3 from "../assets/projects/project-3.jpg";
+//import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.`;
-
-export const ABOUT_TEXT = `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.`;
+export const HERO_CONTENT = "About";
+export const ABOUT_TEXT = "About";
 
 export const EXPERIENCES = [
   {
