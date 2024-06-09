@@ -15,3 +15,27 @@ export const EXPERIENCES = [
   },
  
 ];
+
+
+export const PROJECTS = [
+  {
+    title: "LARAVEL BLOG + ADMIN-PANEL",
+    description: "A web application that allows users to track their daily tasks and progress.",
+    image: "/src/assets/projects/pj1.png",
+    technologies: ["Laravel", "MYSQL", "Backpack", "Blueprint"],
+  },
+  {
+    title: "E-SHOPPING SHOE STORE",
+    description: "The site has an authentication system that allows each user to have their own cart and manage their account and for the administration a dashboard to control all products and transactions. ",
+    image: "/src/assets/projects/pj2.png",
+        technologies: ["PHP", "MYSQL", "DATA Visualization - highcharts"],
+  },
+
+  {
+    title: "WORDPRESS-AC AND HEATING WEBSITE",
+    description: "In February 2022, I embarked on this project crafted with WordPress, aiming to showcase my client's business through a dedicated website. The endeavor demanded about 5 days of diligent work.",
+    image: "/src/assets/projects/pj3.png",
+        technologies: ["Elementor", "Astra", "Jetpack"],
+  },
+  
+];
