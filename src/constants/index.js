@@ -39,3 +39,10 @@ export const PROJECTS = [
   },
   
 ];
+
+export const CONTACT = {
+  address: "123 Main Street, Anytown, USA",
+  phoneNo: "+1 (123) 456-7890",
+  email: "contact@example.com"
+};
+
