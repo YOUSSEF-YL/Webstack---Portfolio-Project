@@ -1,3 +1,19 @@
+Title
+===
+##  Information
+- Title:  `my portfolio`
+- Authors:  `youssefB`
+
+
+## Install & Dependence
+- npm
+- node js
+- Tailwind 
+
+## Run your build process with
+
+- npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
